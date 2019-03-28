@@ -1,7 +1,6 @@
 <?php
 $yourls_user_passwords = array(
-	'L$D'     => 'as',
-	'Randall' => 'correct horse battery staple',
-	'leetboy' => 'h3ll0w0rld!',
-	'api'     => 'passwordfortheapi',
+    'joe' => 'phpass:!2a!08!gRCCvpvK22BgiNzN9q9fXOnjCXqQoZP/P0wydAj7bB2',
+    'api' => 'phpass:!2a!08!m4IbkpuC0jjDIab7yRvjXeljjvcOJTASFL5nagml1Dm',
+    // etc..
 );
